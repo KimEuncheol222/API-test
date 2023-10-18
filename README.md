@@ -36,10 +36,3 @@
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" /></a>  
 </div>
-
-<br>
-<br>
-
-
-
-![image](https://github.com/KimEuncheol222/remember/assets/125336999/d77b86ee-3230-4168-a6c6-7be18f253311)
